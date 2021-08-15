@@ -1,0 +1,1 @@
+# RNGThis is a random number generator that I wrote in 30 seconds when I was boredmfw you could just use random.randint()
